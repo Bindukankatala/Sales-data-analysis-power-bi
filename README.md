@@ -41,7 +41,7 @@ The dashboard was built to answer the following business questions:
 Common measures used:
 - `Total Amount`
 - `Total Boxes`
-- `Amount Per Box` (Total Amount / Total Boxes)
+- `Amount Per Box`
 - Time-intelligence measures (Month-to-date, YTD, rolling totals)
 - Forecast-related measures (used by built-in Power BI forecasting visuals)
 
