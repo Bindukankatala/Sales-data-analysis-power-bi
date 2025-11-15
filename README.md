@@ -5,11 +5,6 @@
 The main objective of this Power BI project is to analyze sales performance across different **Sales Representatives**, **Teams**, **Product Categories**, and **Geographic Regions**.  
 The interactive dashboard transforms raw sales data into actionable insights that help identify top performers, prioritize key accounts, understand category trends, and forecast future revenue.
 
-## 📁 Files Included (suggested)
-- `sales-data.xlsx` — Raw & cleaned data tables (people, products, locations, sales)  
-- `PowerBI_Report.pbix` — Power BI Desktop file with all pages and measures   
-- `dashboard-thumbnail.png` — Project thumbnail for GitHub
-
 ## 📂 Dataset Used
 **[Call Center Records](https://github.com/Bindukankatala/Sales-data-analysis-power-bi/blob/main/AC-sales-data-blank.xlsx)**
 
