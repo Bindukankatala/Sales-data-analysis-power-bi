@@ -55,7 +55,7 @@ Common measures used:
 - Visual elements include tables, bar charts, column charts, line charts with forecasting, and KPI cards.
 - Clean layout with emphasis on readability and quick decision-making.
 - 
-## 📊 Dashboard
+## 📊 Dashboards
 ![Call Center Dashboard](https://github.com/Bindukankatala/Sales-data-analysis-power-bi/blob/main/Sales%20Person%20Analysis%20Dashboard.png)
 *(The dashboard visualizessales performance by geography, team, and individual salespersons.)*
 
